@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+.cards {
+  width: 55%;
+  height: auto;
+  justify-content: center;
+  box-shadow: 0 0 25px black;
+  margin-left: 23%;
+  border-radius: 20px;
+  margin-top: 40px;
+}
+.cards .cards-title {
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
+.cards .cards-img {
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.cards .cards-dec {
+  padding: 30px;
+  text-align: center;
+  font-family: 'Mitr', sans-serif;
+}
+.cards .cards-links {
+  text-align: center;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: -20px;
+  margin-left: 42%;
+  border-radius: 10px;
+}/*# sourceMappingURL=style.css.map */
